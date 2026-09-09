@@ -1,0 +1,21 @@
+# 個人情報・別プロジェクト・作業ファイル
+Qr/
+Documents_Invitation_AntigravityIDE.md
+アピール_v00.md
+アピール_v00_Slide_Deck.md
+todo.html
+installAntigravityIde.md
+installAntigravityIdeNonproken.md
+一日一歩Antigravity/
+
+# 開発用・システム一時ファイル
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# エディタ設定
+.vscode/
+.idea/
+
+# ログファイル
+*.log
