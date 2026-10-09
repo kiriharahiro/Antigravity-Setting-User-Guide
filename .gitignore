@@ -19,3 +19,12 @@ Desktop.ini
 
 # ログファイル
 *.log
+
+# AI対話生ログ・アシスタントメタデータ (漏洩防止)
+conversation_log*
+*.jsonl
+brain/
+.gemini/
+.agents/
+credentials.json
+token.json
